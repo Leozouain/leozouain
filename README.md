@@ -1,9 +1,11 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=681D6E&center=true&vCenter=true&width=500&height=70&duration=2000&lines=👋+Welcome+to;+LeoZouain+Github+😊!;" />
+</h1>
 
 
-<h1 align="center" style="font-weight: 600"> Welcome to  LeoZouain GitHub!❤️ </h1> 
 
-</br>
-![snake gif](https://github.com/leozouain/leozouain/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <p align="center"> Hey there👋! I'm Leonardo Morais, also known as LeoZouain, a passionate Front End Developer. I'm fascinated by understanding how things work and creating new stuff.I like to say that problems are excellent opportunities for creating solutions.</p>&nbsp;
 
@@ -14,6 +16,8 @@
  
  &nbsp;
  &nbsp;
+
+ ![snake gif](https://github.com/leozouain/leozouain/blob/output/github-contribution-grid-snake.gif)
 
 
 
