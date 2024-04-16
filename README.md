@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 
@@ -53,10 +53,10 @@
 &nbsp;
 &nbsp;
 
-## Portfolio:
+### Portfolio:
 <a href="https://leozouaindev.com/" target="_blank">leozouaindev</a>
 
-## Contacts:
+### Contacts:
 
 <div> 
 
