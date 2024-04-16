@@ -2,8 +2,8 @@
 
 <h1 align="center" style="font-weight: 600"> Welcome to  LeoZouain GitHub!❤️ </h1> 
 
-<img src="https://github.com/Leozouain/image/blob/main/avatar.png?raw=true"  width="400px" align="right" alt="avatar" style="border-radius:'50%'">
-
+</br>
+![snake gif](https://github.com/leozouain/leozouain/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"> Hey there👋! I'm Leonardo Morais, also known as LeoZouain, a passionate Front End Developer. I'm fascinated by understanding how things work and creating new stuff.I like to say that problems are excellent opportunities for creating solutions.</p>&nbsp;
 
